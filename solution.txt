@@ -1,0 +1,18 @@
+Welcome to my fiendish little bomb. You have 6 phases with
+which to blow yourself up. Have a nice day!
+Wild horses couldn't drag me away!
+Phase 1 defused. How about the next one?
+73 18
+That's number 2.  Keep going!
+ab 9
+Halfway there!
+-80 100 0 16 GordianKnot
+So you got that one.  Try this one.
+beldog
+Good work!  On to the next...
+2 4 6 5 3 1
+Curses, you've found the secret phase!
+But finding it and solving it are quite different...
+BGM PIT BAL PHL UTI BGM
+Wow! You've defused the secret stage!
+Congratulations! You've defused the bomb!
